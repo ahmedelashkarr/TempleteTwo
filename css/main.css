@@ -316,7 +316,7 @@ section .get {
 
 
 section .get .img {
-    background-image: url("../media/paying-with.jpg");
+    background-image: url("../media/paying-with.png");
     background-size: cover;
     background-position: center;
     height: 100%;
