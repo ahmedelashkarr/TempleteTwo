@@ -53,7 +53,7 @@ button {
 /* header {} */
 header {
     height: 83vh;
-    background-image: url("media/woman-sitting-in-a-park-and-reading-news-on-her-smartphone-picjumbo-com.jpg");
+    background-image: url("media/woman-sitting-in-a-park-and-reading-news-on-her-smartphone-picjumbo-com.png");
     background-size: cover;
     position: relative;
     /* margin-bottom: 200px; */
@@ -635,7 +635,7 @@ section .video::after {
 section .video .img {
     width: 100%;
     height: 70vh;
-    background-image: url(media/woman-holding-modern-smartphone-in-hand-picjumbo-com.jpg);
+    background-image: url(media/woman-holding-modern-smartphone-in-hand-picjumbo-com.png);
     background-position: center;
     background-size: cover;
 }
