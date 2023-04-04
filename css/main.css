@@ -324,6 +324,10 @@ section .get .img {
 @media(max-width : 768px) {
     section .get .img {
         display: none;
+         -webkit-column-display: none;
+        -moz-display: none;
+        -ms-display: none;
+        -o-display: none;
     }
 
     section .get {
