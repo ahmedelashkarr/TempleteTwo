@@ -321,7 +321,7 @@ section .get .img {
     height: 100%;
 }
 
-@media(max-width : 768px) {
+@media(max-width : 800px) {
     section .get .img {
         display: none;
          -webkit-column-display: none;
