@@ -321,17 +321,13 @@ section .get .img {
     height: 100%;
 }
 
-@media(max-width : 800px) {
+@media(max-width : 768px) {
     section .get .img {
-        display: none;
-         -webkit-column-display: none;
-        -moz-display: none;
-        -ms-display: none;
-        -o-display: none;
+        display: none ;
     }
 
     section .get {
-        grid-template-columns: repeat(auto-fill, minmax(200px, 100%));
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     }
 }
 
