@@ -340,6 +340,11 @@ section .get .content {
     justify-content: flex-start;
     padding-left: 50px;
 }
+@media(max-width : 768px) {
+    section .get .content {
+        width:100% ;
+    }
+}
 
 
 section .get .content h2 {
